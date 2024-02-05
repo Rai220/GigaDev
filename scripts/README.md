@@ -18,3 +18,6 @@ This script sets a default value to a specified environment variable. Usage: ./s
 
 ## get_external_ip.sh
 This script gets the external IP address. Usage: ./get_external_ip.sh
+
+## docker_run_memory_server.sh
+This script builds and deploys a memory server script inside a docker container. Usage: ./docker_run_memory_server.sh
