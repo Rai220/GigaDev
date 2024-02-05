@@ -21,3 +21,6 @@ This script gets the external IP address. Usage: ./get_external_ip.sh
 
 ## docker_run_memory_server.sh
 This script builds and deploys a memory server script inside a docker container. Usage: ./docker_run_memory_server.sh
+
+## git_push_changes.sh
+This script commits all changes and pushes them to the git server. Usage: ./git_push_changes.sh
